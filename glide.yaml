@@ -1,0 +1,8 @@
+package: .
+import:
+- package: github.com/gorilla/mux
+- package: bitbucket.org/liamstask/goose
+  subpackages:
+  - cmd/goose
+- package: github.com/stretchr/testify
+- package: github.com/sirupsen/logrus

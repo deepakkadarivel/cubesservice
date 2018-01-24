@@ -1,0 +1,14 @@
+hash: 799d13cb81cbc2e26533697559d2d67110d3cb69e244fbbd85cd3895cfa05e4a
+updated: 2018-01-24T19:07:51.007100829+05:30
+imports:
+- name: bitbucket.org/liamstask/goose
+  version: 8488cc47d90c8a502b1c41a462a6d9cc8ee0a895
+  subpackages:
+  - cmd/goose
+- name: github.com/gorilla/mux
+  version: c0091a029979286890368b4c7b301261e448e242
+- name: github.com/sirupsen/logrus
+  version: d682213848ed68c0a260ca37d6dd5ace8423f5ba
+- name: github.com/stretchr/testify
+  version: 87b1dfb5b2fa649f52695dd9eae19abe404a4308
+testImports: []
