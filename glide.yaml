@@ -6,3 +6,6 @@ import:
   - cmd/goose
 - package: github.com/stretchr/testify
 - package: github.com/sirupsen/logrus
+- package: golang.org/x/sys
+  subpackages:
+  - unix
